@@ -16,4 +16,10 @@ interactively.
 3. This workshop also had taugt me how to build the standard cells in order to use with openlane flow, infact it is how standrd cell libraries are built.
 
 
-Let me walk you through at first how to we do the entire flow that is starting from synthesis to routing of the design. 
+Let me walk you through at first how do we do the entire flow that is starting from synthesis to routing of the design. 
+
+STEPS: 
+
+1. open the terminal in your ubutntu system and type the cd(change directory) so that you can go to your home directory 
+
+      ![](flow_images/step1.png)
