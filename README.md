@@ -14,3 +14,6 @@ interactively.
     6. Routing 
     
 3. This workshop also had taugt me how to build the standard cells in order to use with openlane flow, infact it is how standrd cell libraries are built.
+
+
+Let me walk you through at first how to we do the entire flow that is starting from synthesis to routing of the design. 
