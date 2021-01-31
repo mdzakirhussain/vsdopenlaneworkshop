@@ -65,6 +65,7 @@ designs/<design_name>
 ├── config.tcl
     
     To observe the above, you can open the new terminal[not openlane's command prompt] and check the following[see the image]
+    
     <img src="flow_images/step9.png" width="1000" height="400">
     
     
