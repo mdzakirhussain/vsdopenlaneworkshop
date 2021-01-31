@@ -89,6 +89,10 @@ STEPS:
     
     <img src="flow_images/step12.png" width="1000" height="400">
     
+    and the verilog code for this example is 
+    
+    <img src="flow_images/step13.png" width="1000" height="400">
+    
     
     <b>INSTALLATION NOTES:</b> 
     
