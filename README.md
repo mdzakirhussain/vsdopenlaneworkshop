@@ -22,4 +22,4 @@ STEPS:
 
 1. open the terminal in your ubutntu system and type the cd(change directory) so that you can go to your home directory 
 
-      <img src="flow_images/step1.png" width="50">
+      <img src="flow_images/step1.png" width="100">
