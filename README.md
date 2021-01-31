@@ -39,3 +39,12 @@ STEPS:
 5. Now type ls in the terminal to see the contents of openlane directory 
 
     <img src="flow_images/step5.png" width="1000" height="400">
+    
+6. Now we have to run the following two commands to get into openlane command prompt 
+
+    1. export PDK_ROOT=<absolute path to where skywater-pdk and open_pdks will reside>
+    2. docker run -it -v $(pwd):/openLANE_flow -v $PDK_ROOT:$PDK_ROOT -e PDK_ROOT=$PDK_ROOT -u $(id -u $USER):$(id -g $USER) openlane:rc6
+    
+    <b>INSTALLATION NOTES:</b> 
+    
+    please refer this site https://github.com/efabless/openlane
