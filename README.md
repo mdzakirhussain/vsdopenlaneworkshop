@@ -93,6 +93,11 @@ STEPS:
     
     <img src="flow_images/step13.png" width="1000" height="400">
     
+    after saving your verilog design file, you must be seeing in the src folder your design file. To see the verilog file type the 
+    command ls in the terminal being in the src folder path
+    
+    <img src="flow_images/step14.png" width="1000" height="400">
+    
     
     <b>INSTALLATION NOTES:</b> 
     
