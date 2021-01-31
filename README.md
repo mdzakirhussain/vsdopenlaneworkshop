@@ -42,7 +42,7 @@ STEPS:
     
 6. Now we have to run the following two commands to get into openlane command prompt 
 
-    1. export PDK_ROOT=<absolute path to where skywater-pdk and open_pdks will reside>
+    1. export PDK_ROOT=\<absolute path to where skywater-pdk and open_pdks will reside\>
     2. docker run -it -v $(pwd):/openLANE_flow -v $PDK_ROOT:$PDK_ROOT -e PDK_ROOT=$PDK_ROOT -u $(id -u $USER):$(id -g $USER) openlane:rc6
     
     <b>INSTALLATION NOTES:</b> 
