@@ -80,6 +80,14 @@ STEPS:
    cd src(assume you are already in openlane/designs/design_name folder)
    
    <img src="flow_images/step11.png" width="1000" height="400">
+   
+9. Let's create our design adder3bit. You have to type in the termonal prompt being in src    
+   folder path the following command
+   
+   gedit adder3bit.v & (as shown in the below figure), this will open-up tect editor wherin 
+   you can type your verilog code
+    
+    <img src="flow_images/step12.png" width="1000" height="400">
     
     
     <b>INSTALLATION NOTES:</b> 
