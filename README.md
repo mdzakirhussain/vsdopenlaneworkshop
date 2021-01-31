@@ -47,6 +47,27 @@ STEPS:
     
     <img src="flow_images/step6.png" width="1000" height="400">
     
+7. Now to create your design, you have to type the folowing in the openlane's command prompt
+
+    ./flow.tcl -design <design_name> -init_design_config
+    
+    for example let's say, you thought of creating 3-bit adder and you may like to call that design's name as adder3bit
+    in that case 
+    ./flow.tcl -design adder3bit -init_design_config
+    
+    <img src="flow_images/step7.png" width="1000" height="400">
+    
+    <img src="flow_images/step8.png" width="1000" height="400">
+    
+    This will create the following directory structure:
+
+designs/<design_name>
+├── config.tcl
+    
+    To observe the above, you can open the new terminal[not openlane's command prompt] and check the following[see the image]
+    <img src="flow_images/step9.png" width="1000" height="400">
+    
+    
     <b>INSTALLATION NOTES:</b> 
     
     please refer this site https://github.com/efabless/openlane
