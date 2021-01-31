@@ -53,6 +53,7 @@ STEPS:
     
     for example let's say, you thought of creating 3-bit adder and you may like to call that design's name as adder3bit
     in that case 
+    
     ./flow.tcl -design adder3bit -init_design_config
     
     <img src="flow_images/step7.png" width="1000" height="400">
@@ -61,8 +62,10 @@ STEPS:
     
     This will create the following directory structure:
 
-designs/<design_name>
-├── config.tcl
+designs/<design_name>/src
+designs/<design_name>/config.tcl
+
+
     
     To observe the above, you can open the new terminal[not openlane's command prompt] and check the following[see the image]
     
