@@ -22,16 +22,20 @@ STEPS:
 
 1. open the terminal in your ubutntu system and type the cd(change directory) so that you can go to your home directory 
 
-      <img src="flow_images/step1.png" width="1000" height="600">
+      <img src="flow_images/step1.png" width="1000" height="400">
       
 2. Now type pwd (print working directory) command in the terminal to see that currently in which directory are you in
       
-      <img src="flow_images/step2.png" width="1000" height="600">
+      <img src="flow_images/step2.png" width="1000" height="400">
       
 3. Now type ls command to see all the files and filders in your home directory 
     
-     <img src="flow_images/step3.png" width="1000" height="600">
+     <img src="flow_images/step3.png" width="1000" height="400">
      
 4. Now type cd openlane in the terminal, so that you can be in the openlane directory 
 
-    <img src="flow_images/step4.png" width="1000" height="600">
+    <img src="flow_images/step4.png" width="1000" height="400">
+    
+5. Now type ls in the terminal to see the contents of openlane directory 
+
+    <img src="flow_images/step5.png" width="1000" height="400">
