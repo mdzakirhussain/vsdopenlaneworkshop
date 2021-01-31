@@ -73,6 +73,13 @@ STEPS:
     <img src="flow_images/step9.png" width="1000" height="400">
     
      <img src="flow_images/step10.png" width="1000" height="400">
+     
+8. The next job is to create verilog design files into the src folder which is under openlane/designs folder.
+   To create verilog design file, we have to first move into the src folder by typing in the terminal the following command 
+   
+   cd src(assume you are already in openlane/designs/design_name folder)
+   
+   <img src="flow_images/step11.png" width="1000" height="400">
     
     
     <b>INSTALLATION NOTES:</b> 
